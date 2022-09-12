@@ -1,3 +1,5 @@
+using UnityEngine;
+
 public class NullableType : MonoBehaviour
 {
     void Update()
