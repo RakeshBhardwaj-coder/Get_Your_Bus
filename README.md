@@ -1,3 +1,6 @@
 # UnityAdvance
 List</br>
-Enum
+Enum</br>
+Struct</br>
+NullableType</br>
+Interface</br>
